@@ -1,0 +1,67 @@
+p{
+text-align: right;    
+
+}
+
+ul li a{
+    margin-left: 30px;
+}
+
+.nav-link{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+
+body{
+   /* Slide 16:9 - 1 */
+
+
+
+background: #F0F0F0;
+ 
+}
+
+.co{
+  background-color: white;
+}
+
+
+
+  .card .card-img-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5); /* خلفية نصف شفافة */
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  .spa{
+    margin-top: 20px;
+    margin-right: 20px;
+    display: flex;
+  }
+
+  .card-text{
+    position: relative;
+    top: 180px;
+  }
+
+
+.location-card{
+  box-shadow: 10px 10px 5px lightblue;
+    margin-top: 20px;
+
+}
+.carousel-item img {
+  object-fit: cover;
+  height: 250px;
+}
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+
